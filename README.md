@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasanth7781" alt="vasanth7781" /></a> </p>
 
-- 🔭 I’m currently working on [Fireapis](https://fireapis.com/)
+<!-- - 🔭 I’m currently working on [Fireapis](https://fireapis.com/) -->
 
-- 🌱 I’m currently learning **Cassandra, Redis Architecture for high scaling**
+<!-- - 🌱 I’m currently learning **Cassandra, Redis Architecture for high scaling** -->
 
-- 📝 I regularly write articles on [https://dev.to/vasanth7781](https://dev.to/vasanth7781)
+<!-- - 📝 I regularly write articles on [https://dev.to/vasanth7781](https://dev.to/vasanth7781) -->
 
 - 💬 Ask me about **React Typescript,Mobx,Redux,Python,AWS,Serverless Architecture**
 
